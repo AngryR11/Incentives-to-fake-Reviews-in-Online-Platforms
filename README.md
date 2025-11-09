@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 # Read me
 
 This repository contains the targeted dataset used in "Incentives to fake reviews in Online Platforms" by Gustavo Q. Saraiva
